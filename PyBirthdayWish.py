@@ -3,8 +3,6 @@
 import os,random
 from threading import Thread
 from time import sleep
-
-from playsound import playsound
 from termcolor import colored
 
 from config import *
